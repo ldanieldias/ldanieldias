@@ -9,7 +9,7 @@
 * My favorite tech components are:
 
 - ![DB2](https://img.shields.io/badge/-DB2-black?style=flat-square&logo=IBM)
-- ![CognosAnalytics](https://img.shields.io/badge/-Cognos Analytics-black?style=flat-square&logo=IBM)
+- ![CognosAnalytics](https://img.shields.io/badge/-'Cognos Analytics'-black?style=flat-square&logo=IBM)
 - ![SPSS](https://img.shields.io/badge/-SPSS-black?style=flat-square&logo=IBM)
 - ![DataStage](https://img.shields.io/badge/-DataStage-black?style=flat-square&logo=IBM)
 - ![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
