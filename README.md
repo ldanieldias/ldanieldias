@@ -2,7 +2,7 @@
 
 ### 😄 Welcome to my GitHub profile!
 
-### 🔭 I'm currently working as a Data Analyst!
+### 🔭 I'm currently working as a Data Engineer SR!
 
 ### Expertise in big data, data analytics, data engineer and data visualization projects. 
 
